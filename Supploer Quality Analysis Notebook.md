@@ -1,3 +1,5 @@
+<img width="1649" height="862" alt="Supplier Quality 2 " src="https://github.com/user-attachments/assets/5d2e47ea-806d-4a1a-a950-a00566254d4c" />
+<img width="1816" height="852" alt="Supplier Quality 1 " src="https://github.com/user-attachments/assets/77744f5b-14df-4cb6-8647-850465a0228d" />
 
 # 1- Business Related Questions & KPIS
 ### **Supplier Performance**
